@@ -1,2 +1,1 @@
-este archivo es parte de la rama practica-login
-linea agregada desde VM en la rama practica-login
+LOGIN: version B (rama B)
